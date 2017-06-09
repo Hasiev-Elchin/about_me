@@ -1,0 +1,100 @@
+body {
+	font-family: "Segoe UI Regular", sans-serif;
+	font-size: 30px;
+
+	color: #464b4f;
+}
+
+.container {
+	width: 940px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+header {
+	padding: 80px 0 50px;
+	margin-bottom: 100px;
+
+	background: #23232e;
+	color: #fff;
+}
+
+.logo {
+	width: 135px;
+	height: 135px;
+	margin: 0 auto 155px;
+}
+
+.header-text {
+	text-align: center;
+}
+
+.header-text h1 {
+	margin-bottom: 65px;
+
+	text-transform: uppercase;
+	font: bold 80px/30px "Segoi UI Bold", sans-serif;
+}
+
+.header-text .header-title {
+	width: 420px;
+	margin: 0 auto 150px;
+
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.bottom {
+	display: block;
+	width: 46px;
+	height: 45px;
+	margin: 0 auto;
+
+	background: url("../img/bottom.png") no-repeat;
+	text-decoration: none;
+	font-size: 0;
+}
+
+.about-text {
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+	line-height: 42px;
+}
+
+.main-title {
+	margin-top: 120px;
+	margin-bottom: 100px;
+
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 80px;
+	line-height: 36px;
+}
+
+.what-item {
+	float: left;
+	width: 300px;
+	margin-right: 20px;
+	margin-bottom: 100px;
+}
+
+.what-item:last-child {
+	margin-right: 0;
+}
+
+.what-item .name {
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 42px;
+}
+
+.what-item .title {
+	font-size: 18px;
+	line-height: 30px;
+}

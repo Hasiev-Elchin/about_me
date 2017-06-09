@@ -49,6 +49,7 @@ header {
 	width: 46px;
 	height: 45px;
 	margin: 0 auto;
+	border-radius: 50%;
 
 	background: url("../img/bottom.png") no-repeat;
 	text-decoration: none;
